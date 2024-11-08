@@ -1,0 +1,25 @@
+.rhomb_all{
+    margin-left: 0.729vw;
+    margin-top: 0.729vw;
+}
+.rhomb{
+    display: flex;
+    width: 0.804vw;
+    height: 0.804vw;
+    justify-content: center;
+    align-items: center;
+    transform: rotate(45deg);
+    border: 0.052vw solid rgba(255, 255, 255, 0.15);
+}
+.romb{
+    width: 0.215vw;
+    height: 0.215vw;
+    background: rgba(255, 255, 255, 0.33);
+}
+.rhomb_ab{
+    margin-left: 19.367vw;
+    margin-top: -.9vw;
+}
+.rhomb_ba{
+    margin-top: 11.394vw;
+}

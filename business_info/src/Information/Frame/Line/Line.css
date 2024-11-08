@@ -1,0 +1,26 @@
+.line{
+    width: 19.167vw;
+    height: 0.052vw;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0.25) 0%, rgba(153, 153, 153, 0.00) 100%);
+}
+.line_lr{
+    width: 0.152vw;
+    height: 10.781vw;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0.25) 0%, rgba(153, 153, 153, 0.00) 100%);
+}
+.line_top{
+    margin-top: -12.85vw;
+    margin-left: 1.042vw;
+}
+.line_bottom{
+    margin-top: 12.3vw;
+    margin-left: 1.042vw;
+}
+.line_left{
+    margin-left: 1.1vw;
+    margin-top: -11.3vw;
+}
+.line_right{
+    margin-top: -10.6vw;
+    margin-left: 20.45vw;
+}

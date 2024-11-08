@@ -1,0 +1,44 @@
+.category {
+    width: 13.646vw;
+    height: 3.333vw;
+    margin-top: 0.781vw;
+    margin-left: 10.417vw;
+}
+
+.category p {
+    font-size: 0.781vw;
+    font-family: 'FiraSans_Regular';
+    color: white;
+    margin-top: 0;
+}
+
+.category_button {
+    width: 6.51vw;
+    height: 2.127vw;
+    background-image: url(/category_button.png);
+    background-size: 11.094vw 6.51vw;
+    background-repeat: no-repeat;
+    background-position: -2.292vw;
+    color: white;
+    font-family: 'FiraSans_Light';
+    font-size: 0.677vw;
+    border: none;
+    margin-top: -0.104vw;
+    background-color: transparent;
+    text-align: center;
+}
+.category_button p{
+    margin-top: 0.313vw;
+}
+
+.cartridges {
+    margin-right: 0.625vw;
+}
+
+.cartridges_active {
+    background-image: url(/category_button_white.png);
+}
+
+.weapon_active {
+    background-image: url(/category_button_white.png);
+}

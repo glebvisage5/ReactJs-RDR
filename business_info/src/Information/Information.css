@@ -1,0 +1,24 @@
+.info{
+    width: 21.771vw;
+    height: 14.635vw;
+    border-radius: 0.26vw;
+    background: linear-gradient(180deg, rgba(21, 21, 21, 0.89) 0%, rgba(0, 0, 0, 0.93) 100%);
+}
+.info_p{
+    font-family: 'FiraSans_Regular';
+    font-size: 0.677vw;
+    color: white;
+    margin-top: -11.146vw;
+    margin-left: 2.135vw;
+}
+.info_p span{
+    text-shadow: 0 0.208vw 2.25vw rgba(215, 28, 35, 0.25);
+    font-family: "Chinese Rocks";
+    font-size: 1.25vw;
+    font-weight: 400;
+    letter-spacing: 0.05vw;
+    background: linear-gradient(180deg, #D71C23 11.34%, rgba(215, 28, 35, 0.55) 90.72%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

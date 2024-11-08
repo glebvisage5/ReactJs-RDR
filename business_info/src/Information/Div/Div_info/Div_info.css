@@ -1,0 +1,24 @@
+.div_info {
+    width: 17.5vw;
+    height: 1.771vw;
+    background-image: url(./back.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 0.313vw;
+    display: flex;
+    font-family: 'FiraSans_Regular';
+    align-items: center;
+    font-size: 0.677vw;
+    white-space: nowrap;
+}
+
+.head {
+    margin-left: 0.781vw;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.foot {
+    margin-left: auto;
+    margin-right: 0.885vw;
+    color: #D7961C;
+}

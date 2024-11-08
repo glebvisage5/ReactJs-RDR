@@ -1,0 +1,8 @@
+.card_all{
+    max-width: 44.063vw;
+    margin-top: 1.198vw;
+    margin-left: 17.083vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

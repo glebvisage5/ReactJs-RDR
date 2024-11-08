@@ -1,0 +1,13 @@
+.weapon_all{
+    margin-left: 10.417vw;
+}
+.text{
+    color: white;
+    font-family: "FiraSans_Regular";
+    font-size: 0.781vw;
+}
+.weapon_center{
+    position: absolute;
+    top: 9.896vw;
+    margin-left: 33.073vw;
+}

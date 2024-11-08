@@ -1,0 +1,113 @@
+@font-face {
+    font-family: 'FiraSans_Thin';
+    src: url(./fonts/FiraSans-Thin.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: 'FiraSans_ThinItalic';
+    src: url(./fonts/FiraSans-ThinItalic.ttf);
+    font-style: italic;
+    font-weight: 100;
+}
+@font-face {
+    font-family: 'FiraSans_ExtraLight';
+    src: url(./fonts/FiraSans-ExtraLight.ttf);
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: 'FiraSans_ExtraLightItalic';
+    src: url(./fonts/FiraSans-ExtraLightItalic.ttf);
+    font-style: italic;
+    font-weight: 200;
+}
+@font-face {
+    font-family: 'FiraSans_Light';
+    src: url(./fonts/FiraSans-Light.ttf);
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'FiraSans_LightItalic';
+    src: url(./fonts/FiraSans-LightItalic.ttf);
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'FiraSans_Regular';
+    src: url(./fonts/FiraSans-Regular.ttf);
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'FiraSans_RegularItalic';
+    src: url(./fonts/FiraSans-Italic.ttf);
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'FiraSans_Medium';
+    src: url(./fonts/FiraSans-Medium.ttf);
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'FiraSans_MediumItalic';
+    src: url(./fonts/FiraSans-MediumItalic.ttf);
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'FiraSans_SemiBold';
+    src: url(./fonts/FiraSans-SemiBold.ttf);
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'FiraSans_SemiBoldItalic';
+    src: url(./fonts/FiraSans-SemiBoldItalic.ttf);
+    font-style: italic;
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'FiraSans_Bold';
+    src: url(./fonts/FiraSans-Bold.ttf);
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'FiraSans_BoldItalic';
+    src: url(./fonts/FiraSans-BoldItalic.ttf);
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'FiraSans_ExtraBold';
+    src: url(./fonts/FiraSans-ExtraBold.ttf);
+    font-style: normal;
+    font-weight: 800;
+}
+@font-face {
+    font-family: 'FiraSans_ExtraBoldItalic';
+    src: url(./fonts/FiraSans-ExtraBoldItalic.ttf);
+    font-style: italic;
+    font-weight: 800;
+}
+@font-face {
+    font-family: 'FiraSans_Black';
+    src: url(./fonts/FiraSans-Black.ttf);
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: 'FiraSans_BlackItalic';
+    src: url(./fonts/FiraSans-BlackItalic.ttf);
+    font-style: italic;
+    font-weight: 900;
+}
+@font-face {
+    font-family: 'Chinese Rocks';
+    src: url(./fonts/chineserocksboldcyrillic.otf);
+    font-style: normal;
+}

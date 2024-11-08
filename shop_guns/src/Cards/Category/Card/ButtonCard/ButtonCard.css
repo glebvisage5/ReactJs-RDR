@@ -1,0 +1,21 @@
+.buy_button{
+    width: 3.75vw;
+    height: 1.798vw;
+    font-size: 0.625vw;
+    font-family: 'FiraSans_Medium';
+    color: white;
+    background-image: url(/buy_button.svg);
+    background-size: 8.333vw 6.481vw;
+    background-position: -2.292vw;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    margin-top: 2.04vw;
+    margin-left: 5.833vw;
+}
+.buy_button p{
+    margin-top: 0.234vw;
+}

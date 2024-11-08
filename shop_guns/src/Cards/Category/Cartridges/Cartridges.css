@@ -1,0 +1,29 @@
+.cartridges_all{
+    margin-left: 10.417vw;
+}
+.text{
+    color: white;
+    font-family: "FiraSans_Regular";
+    font-size: 0.781vw;
+}
+.back_calibre{
+    width: 27.917vw;
+    height: 27.292vw;
+    background-image: url(/back_calibre.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.calibre_image{
+    width: 100%;
+    height: 23.802vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.cartridges_center{
+    position: absolute;
+    top: 9.896vw;
+    margin-left: 33.073vw;
+}

@@ -1,0 +1,20 @@
+.cartbutton{
+    width: 19.583vw;
+    height: 3.281vw;
+    background-image: url(/cartbutton.svg);
+    background-size: 24.167vw 7.865vw;
+    background-position: -2.292vw -2.188vw;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    border: none;
+    font-size: 0.781vw;
+    font-family: 'FiraSans_Medium';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 0.781vw;
+}
+.cartbutton p{
+    margin-top: 0.104vw;
+}

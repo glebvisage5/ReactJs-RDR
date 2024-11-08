@@ -1,0 +1,110 @@
+.items_all{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1.198vw;
+    margin-bottom: -0.677vw;
+}
+.cart_item{
+    width: 17.292vw;
+    height: 3.438vw;
+    background-image: url(/cart_card.svg);
+    background-position: -2.292vw -2.135vw;
+    background-size: 21.975vw 8.121vw;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.Item_img{
+    width: 2.083vw;
+    height: 1.719vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 0.729vw;
+}
+.Item_title{
+    max-width: 3.229vw;
+    color: white;
+    font-size: 0.677vw;
+    font-family: 'FiraSans_Regular';
+    white-space: wrap;
+    margin-left: 0.313vw;
+}
+.btn_item{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: auto;
+    margin-right: 1.042vw;
+}
+.arrow_all{
+    width: 1.354vw;
+    height: 1.354vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/left_arrow.svg);
+}
+.left_arrow{
+    margin-left: 2.552vw;
+}
+.right_arrow{
+    transform: rotate(180deg);
+}
+.arrow{
+    width: 0.226vw;
+    height: 0.452vw;
+    background-image: url(/arrow.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Item_price{
+    width: 2.5vw;
+    height: 1.354vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/cart_card.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'FiraSans_Medium';
+    font-size: 0.677vw;
+    margin-left: 0.26vw;
+    margin-right: 0.26vw;
+}
+.item_back{
+    width: 1.354vw;
+    height: 1.354vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/left_arrow.svg);
+    transform: rotate(180deg);
+    margin-left: 0.26vw;
+}
+.item_b{
+    width: 0.417vw;
+    height: 0.417vw;
+    background-image: url(/item_back.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.item_quantity{
+    width: 2.083vw;
+    height: 3.438vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/quantity.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 0.677vw;
+    font-family: 'FiraSans_Medium';
+    color: #1A1A1A;
+    margin-left: 0.26vw;
+}

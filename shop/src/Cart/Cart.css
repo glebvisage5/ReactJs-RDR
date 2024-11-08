@@ -1,0 +1,36 @@
+.cart{
+    position: absolute;
+    top: 8.438vw;
+    margin-left: 69.948vw;
+}
+.cart_back{
+    width: 19.323vw;
+    height: 23.854vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url(/cart_back.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 0.677vw;
+    font-family: 'FiraSans_Regular';
+    margin-top: 1.25vw;
+}
+.cart_total {
+    width: 19.635vw;
+    height: 1.51vw;
+    display: flex;
+    align-items: center;
+    color: rgba(255, 255, 255, 0.55);
+    font-size: 1.042vw;
+    font-family: "FiraSans_Regular";
+    margin-top: 1.875vw;
+}
+
+.Itog {
+    color: #D7961C;
+    font-size: 1.25vw;
+    margin-left: auto;
+}

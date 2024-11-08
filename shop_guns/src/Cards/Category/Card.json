@@ -1,0 +1,23 @@
+{
+    "Cartridges": [
+        {
+            "src": "/weapon.svg",
+            "title": "Название оружия",
+            "price": 250,
+            "caliber": "40,1mm"
+        },
+        {
+            "src": "./death.svg",
+            "title": "Оружие",
+            "price": 1500
+        }
+    ],
+    
+    "Weapon": [
+        {
+            "src": "./death.svg",
+            "title": "Веревки",
+            "price": 100 
+        }
+    ]
+}

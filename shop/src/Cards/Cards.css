@@ -1,0 +1,59 @@
+.header_card{
+    width: 20.531vw;
+    height: 5.052vw;
+    margin-top: 8.438vw;
+    margin-left: 17.083vw;
+}
+.shop_name{
+    text-shadow: 0 0.208vw 2.25vw rgba(215, 28, 35, 0.25);
+    font-family: "Chinese Rocks";
+    font-size: 2.5vw;
+    font-weight: 400;
+    letter-spacing: 0.1vw;
+    background: linear-gradient(180deg, #D71C23 11.34%, rgba(215, 28, 35, 0.55) 90.72%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: -0.104vw;
+}
+.shop_name span{
+    text-shadow: 0 0.208vw 2.25vw rgba(255, 255, 255, 0.10);
+    background: linear-gradient(180deg, #B5B5B5 11.34%, #FFFFFD 90.72%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.line{
+    height: 0.152vw;
+    width: 17.292vw;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0.25) 0%, rgba(153, 153, 153, 0.00) 100%);
+}
+.line_top{
+    margin-top: -5.417vw;
+}
+.line_bottom{
+    margin-top: 2.5vw;
+}
+.rhomb{
+    display: flex;
+    width: 1.563vw;
+    height: 1.563vw;
+    justify-content: center;
+    align-items: center;
+    transform: rotate(45deg);
+    border: 0.052vw solid rgba(255, 255, 255, 0.15);
+    margin-left: auto;
+    margin-right: 0.417vw;
+    margin-top: -2.292vw;
+}
+.romb{
+    width: 0.417vw;
+    height: 0.417vw;
+    background: rgba(255, 255, 255, 0.33);
+}
+.shop_info{
+    color: #FFF;
+    font-family: 'FiraSans_Regular';
+    font-size: 0.677vw;
+    margin-top: 1.354vw;
+}

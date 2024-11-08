@@ -1,0 +1,24 @@
+{
+    "CardImage1": [
+        {
+            "src": "./death.svg",
+            "title": "Веревки",
+            "price": 250
+        },
+        {
+            "src": "./death.svg",
+            "title": "Нитки",
+            "price": 1250
+        },
+        {
+            "src": "./death.svg",
+            "title": "Бревно",
+            "price": 100
+        },
+        {
+            "src": "./death.svg",
+            "title": "камень",
+            "price": 50
+        }
+    ]
+}
